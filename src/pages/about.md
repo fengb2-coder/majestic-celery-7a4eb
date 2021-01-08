@@ -5,12 +5,12 @@ template: page
 img_path: images/self2.png
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Bowen Feng** is a robotics master student in Northwestern University. He majored in Mechanical Engineering and minored in Applied Math in Rose-Hulman Institute of Technology during his undergraduate years.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+His research projects focus on autonomous vehicles, including predication, planning, control and active learning. 
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+I am proficent in machine learning, reinforcement learning and SLAM algorithms. I am equipped with software tools, such as Python,Matlab,R, C, C++, Tensorflow and Robot Operating System. I believe robot can change the world and i am more than willing to dive into this research field, making dreams come true. 
 
 *Thank You for reading!*
